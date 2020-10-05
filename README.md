@@ -4,4 +4,4 @@ This project was created with React.
 
 ### Tecnology used in the project:
 - React.
-- TypeScript.git
+- TypeScript
